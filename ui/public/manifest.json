@@ -1,0 +1,9 @@
+{
+  "short_name": "Employee Assessment",
+  "name": "EXL Employee Assessment",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

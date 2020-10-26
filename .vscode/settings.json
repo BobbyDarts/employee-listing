@@ -1,0 +1,50 @@
+{
+  "css.customData": [".vscode/css_custom_data.json"],
+  "eslint.packageManager": "yarn",
+  "editor.fontFamily": "'Fira Code', 'Droid Sans Mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.renderLineHighlight": "all",
+  "editor.showFoldingControls": "always",
+  "editor.suggest.maxVisibleSuggestions": 10,
+  "editor.tabCompletion": "on",
+  "editor.tabSize": 2,
+  "workbench.colorTheme": "GitHub Dark",
+  "workbench.editor.labelFormat": "default",
+  "workbench.iconTheme": "helium-icon-theme",
+  "explorer.incrementalNaming": "smart",
+  "explorer.openEditors.visible": 0,
+  "html.format.indentInnerHtml": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
+  "eslint.packageManager": "yarn",
+  "eslint.alwaysShowStatus": true,
+  "material-icon-theme.activeIconPack": "react_redux",
+  "files.exclude": {
+    "**/node_modules": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.json": "json"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "editor.renameOnType": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tslint.packageManager": "yarn",
+  "typescript.tsserver.log": "verbose",
+  "bracket-pair-colorizer-2.showVerticalScopeLine": false,
+  "bracket-pair-colorizer-2.showHorizontalScopeLine": false,
+  "editor.renderIndentGuides": false,
+  "bracket-pair-colorizer-2.highlightActiveScope": true,
+  "editor.matchBrackets": "never",
+  "helium-icon-theme.activeIconPack": "react"
+}
